@@ -8,9 +8,8 @@ var app = express();
 const http = require('http').Server(app);
 
 app.use(express.static('public'));
-
-
-app.listen(8080);
+var port_number = server.listen(process.env.PORT || 3000);
+app.listen(port_number);
 
 
 
