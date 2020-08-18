@@ -10,7 +10,7 @@ const http = require('http').Server(app);
 app.use(express.static('public'));
 
 
-http.listen(4200);
+app.listen(8080);
 
 
 
