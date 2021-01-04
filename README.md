@@ -1,1 +1,1 @@
-# codes-manager 0.0.1
+# codes-manager 0.0.2
