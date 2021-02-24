@@ -1,0 +1,561 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?kosn6a');
+  src:  url('fonts/icomoon.eot?kosn6a#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?kosn6a') format('truetype'),
+    url('fonts/icomoon.woff?kosn6a') format('woff'),
+    url('fonts/icomoon.svg?kosn6a#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gift:before {
+  content: "\e9a9";
+}
+.icon-menu-compact:before {
+  content: "\e9aa";
+}
+.icon-menu:before {
+  content: "\e9ab";
+}
+.icon-offer:before {
+  content: "\e9ad";
+}
+.icon-bloked-action .path1:before {
+  content: "\e998";
+  color: rgb(0, 0, 0);
+}
+.icon-bloked-action .path2:before {
+  content: "\e999";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-bloked-action .path3:before {
+  content: "\e99a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-bloked-action .path4:before {
+  content: "\e99b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-bloked-action .path5:before {
+  content: "\e99c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-bloked-action .path6:before {
+  content: "\e99d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-bloked-action .path7:before {
+  content: "\e99e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-bloked-action .path8:before {
+  content: "\e99f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Dashboard:before {
+  content: "\e9a0";
+}
+.icon-help-layer:before {
+  content: "\e9a1";
+}
+.icon-Link:before {
+  content: "\e9a2";
+}
+.icon-next:before {
+  content: "\e9a3";
+}
+.icon-photo_camera:before {
+  content: "\e9a4";
+}
+.icon-product-add:before {
+  content: "\e9a5";
+}
+.icon-product-demo:before {
+  content: "\e9a6";
+}
+.icon-support-comments:before {
+  content: "\e9a7";
+}
+.icon-support-faq:before {
+  content: "\e9a8";
+}
+.icon-double_arrow:before {
+  content: "\e995";
+}
+.icon-Next:before {
+  content: "\e996";
+}
+.icon-report:before {
+  content: "\e997";
+}
+.icon-arrow:before {
+  content: "\e900";
+}
+.icon-barcode:before {
+  content: "\e901";
+}
+.icon-brand-fill:before {
+  content: "\e902";
+}
+.icon-brand:before {
+  content: "\e903";
+}
+.icon-cancel:before {
+  content: "\e904";
+}
+.icon-card-amex:before {
+  content: "\e905";
+}
+.icon-card-mastercard:before {
+  content: "\e906";
+}
+.icon-card-visa:before {
+  content: "\e907";
+}
+.icon-cart-add:before {
+  content: "\e908";
+}
+.icon-cash_reconciliation-detail:before {
+  content: "\e909";
+}
+.icon-cash_reconciliation:before {
+  content: "\e90a";
+}
+.icon-cash_register-cash_deposit:before {
+  content: "\e90b";
+}
+.icon-cash_register-cash_withdrawal:before {
+  content: "\e90c";
+}
+.icon-cash_register-cash:before {
+  content: "\e90d";
+}
+.icon-cash_register-close:before {
+  content: "\e90e";
+}
+.icon-cash_register-count:before {
+  content: "\e90f";
+}
+.icon-cash_register-inicial_balance:before {
+  content: "\e910";
+}
+.icon-cash_register-movements:before {
+  content: "\e911";
+}
+.icon-category-fill:before {
+  content: "\e912";
+}
+.icon-category:before {
+  content: "\e913";
+}
+.icon-change:before {
+  content: "\e914";
+}
+.icon-chart-circle:before {
+  content: "\e915";
+}
+.icon-chart-donut:before {
+  content: "\e916";
+}
+.icon-checkmark-circle:before {
+  content: "\e917";
+}
+.icon-checkmark:before {
+  content: "\e918";
+}
+.icon-close:before {
+  content: "\e919";
+}
+.icon-combine:before {
+  content: "\e91a";
+}
+.icon-convert:before {
+  content: "\e91b";
+}
+.icon-copy:before {
+  content: "\e91c";
+}
+.icon-credit:before {
+  content: "\e91d";
+}
+.icon-currency-base:before {
+  content: "\e91e";
+}
+.icon-customer-contact:before {
+  content: "\e91f";
+}
+.icon-customer-id:before {
+  content: "\e920";
+}
+.icon-customer:before {
+  content: "\e921";
+}
+.icon-dashboard:before {
+  content: "\e922";
+}
+.icon-date-due:before {
+  content: "\e923";
+}
+.icon-date-end:before {
+  content: "\e924";
+}
+.icon-date-start:before {
+  content: "\e925";
+}
+.icon-date:before {
+  content: "\e926";
+}
+.icon-discount:before {
+  content: "\e927";
+}
+.icon-divide:before {
+  content: "\e928";
+}
+.icon-download:before {
+  content: "\e929";
+}
+.icon-ecommerce:before {
+  content: "\e92a";
+}
+.icon-edit:before {
+  content: "\e92b";
+}
+.icon-electronic_money:before {
+  content: "\e92c";
+}
+.icon-enlarge:before {
+  content: "\e92d";
+}
+.icon-exchange_rate:before {
+  content: "\e92e";
+}
+.icon-faq:before {
+  content: "\e92f";
+}
+.icon-filter-saved:before {
+  content: "\e930";
+}
+.icon-filter:before {
+  content: "\e931";
+}
+.icon-history:before {
+  content: "\e932";
+}
+.icon-image-folder:before {
+  content: "\e933";
+}
+.icon-image-placeholder:before {
+  content: "\e934";
+}
+.icon-image:before {
+  content: "\e935";
+}
+.icon-inbound:before {
+  content: "\e936";
+}
+.icon-include:before {
+  content: "\e937";
+}
+.icon-info:before {
+  content: "\e938";
+}
+.icon-inherit:before {
+  content: "\e939";
+}
+.icon-instrument-card:before {
+  content: "\e93a";
+}
+.icon-instrument-cash:before {
+  content: "\e93b";
+}
+.icon-instrument-cheque:before {
+  content: "\e93c";
+}
+.icon-instrument-credit_note:before {
+  content: "\e93d";
+}
+.icon-instrument-gift_card:before {
+  content: "\e93e";
+}
+.icon-instrument-transfer:before {
+  content: "\e93f";
+}
+.icon-invoicing-certificate:before {
+  content: "\e940";
+}
+.icon-invoicing-signature:before {
+  content: "\e941";
+}
+.icon-invoicing:before {
+  content: "\e942";
+}
+.icon-list:before {
+  content: "\e943";
+}
+.icon-mail:before {
+  content: "\e944";
+}
+.icon-minus:before {
+  content: "\e945";
+}
+.icon-note-bold:before {
+  content: "\e946";
+}
+.icon-note:before {
+  content: "\e947";
+}
+.icon-notification-add:before {
+  content: "\e948";
+}
+.icon-notification-suspend:before {
+  content: "\e949";
+}
+.icon-notification:before {
+  content: "\e94a";
+}
+.icon-operations:before {
+  content: "\e94b";
+}
+.icon-order-delivered:before {
+  content: "\e94c";
+}
+.icon-order-delivery_date:before {
+  content: "\e94d";
+}
+.icon-order-delivery_method:before {
+  content: "\e94e";
+}
+.icon-order-dispatch:before {
+  content: "\e94f";
+}
+.icon-order-in_transit:before {
+  content: "\e950";
+}
+.icon-order-place:before {
+  content: "\e951";
+}
+.icon-order-shipped:before {
+  content: "\e952";
+}
+.icon-order:before {
+  content: "\e953";
+}
+.icon-outbound:before {
+  content: "\e954";
+}
+.icon-password:before {
+  content: "\e955";
+}
+.icon-pause:before {
+  content: "\e956";
+}
+.icon-payment-due:before {
+  content: "\e957";
+}
+.icon-payment:before {
+  content: "\e958";
+}
+.icon-plus:before {
+  content: "\e959";
+}
+.icon-price:before {
+  content: "\e95a";
+}
+.icon-printer-receipt:before {
+  content: "\e95b";
+}
+.icon-printer:before {
+  content: "\e95c";
+}
+.icon-product-assembly-undo:before {
+  content: "\e95d";
+}
+.icon-product-assembly:before {
+  content: "\e95e";
+}
+.icon-product-configurable:before {
+  content: "\e95f";
+}
+.icon-product-detail:before {
+  content: "\e960";
+}
+.icon-product-discontinued:before {
+  content: "\e961";
+}
+.icon-product-identification:before {
+  content: "\e962";
+}
+.icon-product-kardex:before {
+  content: "\e963";
+}
+.icon-product-presentation:before {
+  content: "\e964";
+}
+.icon-product-service:before {
+  content: "\e965";
+}
+.icon-product-virtual:before {
+  content: "\e966";
+}
+.icon-product:before {
+  content: "\e967";
+}
+.icon-profile:before {
+  content: "\e968";
+}
+.icon-quote:before {
+  content: "\e969";
+}
+.icon-receipt-print:before {
+  content: "\e96a";
+}
+.icon-receipt-sale:before {
+  content: "\e96b";
+}
+.icon-receipt:before {
+  content: "\e96c";
+}
+.icon-refresh:before {
+  content: "\e96d";
+}
+.icon-reminder-send:before {
+  content: "\e96e";
+}
+.icon-reservation:before {
+  content: "\e96f";
+}
+.icon-reserved:before {
+  content: "\e970";
+}
+.icon-reset:before {
+  content: "\e971";
+}
+.icon-sale-alert:before {
+  content: "\e972";
+}
+.icon-sale-history:before {
+  content: "\e973";
+}
+.icon-sale-return:before {
+  content: "\e974";
+}
+.icon-sale:before {
+  content: "\e975";
+}
+.icon-save:before {
+  content: "\e976";
+}
+.icon-scale:before {
+  content: "\e977";
+}
+.icon-scan-barcode:before {
+  content: "\e978";
+}
+.icon-scan-qr:before {
+  content: "\e979";
+}
+.icon-search:before {
+  content: "\e97a";
+}
+.icon-season:before {
+  content: "\e97b";
+}
+.icon-settings-fill:before {
+  content: "\e97c";
+}
+.icon-settings:before {
+  content: "\e97d";
+}
+.icon-sort:before {
+  content: "\e97e";
+}
+.icon-special_offer:before {
+  content: "\e97f";
+}
+.icon-star:before {
+  content: "\e980";
+}
+.icon-stock-quantity:before {
+  content: "\e981";
+}
+.icon-stock:before {
+  content: "\e982";
+}
+.icon-store-location:before {
+  content: "\e983";
+}
+.icon-store:before {
+  content: "\e984";
+}
+.icon-supplier:before {
+  content: "\e985";
+}
+.icon-support-agent:before {
+  content: "\e986";
+}
+.icon-support-chat:before {
+  content: "\e987";
+}
+.icon-support-ticket:before {
+  content: "\e988";
+}
+.icon-support-tutorial:before {
+  content: "\e989";
+}
+.icon-table:before {
+  content: "\e98a";
+}
+.icon-terminal:before {
+  content: "\e98b";
+}
+.icon-trading_history:before {
+  content: "\e98c";
+}
+.icon-trash:before {
+  content: "\e98d";
+}
+.icon-tryout:before {
+  content: "\e98e";
+}
+.icon-unlink:before {
+  content: "\e98f";
+}
+.icon-upload:before {
+  content: "\e990";
+}
+.icon-user:before {
+  content: "\e991";
+}
+.icon-ventus:before {
+  content: "\e992";
+}
+.icon-view-disable:before {
+  content: "\e993";
+}
+.icon-view:before {
+  content: "\e994";
+}

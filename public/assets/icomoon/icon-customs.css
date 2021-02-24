@@ -1,0 +1,30 @@
+.icon::before {
+  vertical-align: middle;
+  font-size: 17px;
+}
+
+.icon-sm {
+}
+
+.icon-sm::before {
+  font-size: 12px;
+  line-height: 19px;
+  -webkit-transform: translateY(2px);
+}
+
+.icon-lg::before {
+  font-size: 23px;
+}
+
+.icon-xl::before {
+  font-size: 32px;
+}
+
+.icon-xxl::before {
+  font-size: 50px;
+}
+
+.icon-jumbo::before {
+  font-size: 66px;
+}
+
